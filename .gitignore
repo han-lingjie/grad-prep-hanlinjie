@@ -1,0 +1,42 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# OS and editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# JavaScript dependencies and build output
+node_modules/
+dist/
+build/
+coverage/
+
+# Large local datasets and model artifacts
+data/
+datasets/
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+# Temporary logs (keep small curated metrics and figures in results/)
+*.log
+wandb/
+runs/
