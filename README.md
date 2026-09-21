@@ -7,8 +7,8 @@ GitHub 仓库：[han-lingjie/grad-prep-hanlinjie](https://github.com/han-lingjie
 ## 个人简介
 
 - 姓名拼音：hanlinjie
-- 学校 / 专业：待填写
-- 研究兴趣：待确定
+- 学校 / 专业：新疆大学计算机科学与技术
+- 研究兴趣：联邦学习
 - 工程实践方向：待确定（Web / 桌面应用 / 硬件嵌入式三选一）
 
 ## 进度总览
