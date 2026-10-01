@@ -17,7 +17,7 @@ GitHub 仓库：[han-lingjie/grad-prep-hanlinjie](https://github.com/han-lingjie
 
 | 任务 | 状态 | 入口 | 下一步 |
 | --- | --- | --- | --- |
-| 论文精读与笔记 | 未开始 | [科研总览](research/README.md) | 确定方向，选择近三年的优秀论文 |
+| 论文精读与笔记 | 4篇中文，1篇英文 | [科研总览](research/README.md) | 确定方向，选择近三年的优秀论文 |
 | 论文核心实验复现 | 未开始 | [复现说明](research/reproduction/README.md) | 选择论文，确认代码、数据与算力要求 |
 | 研究想法（可选） | 未开始 | [研究想法](research/ideas/README.md) | 基于阅读与实验提出问题 |
 | 工程实践 | 未开始 | [工程总览](engineering/README.md) | 选择项目类型和技术栈 |
