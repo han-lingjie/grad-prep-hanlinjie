@@ -2,7 +2,7 @@
 
 研究生阶段准备记录：科研阅读、论文复现与工程实践。
 
-GitHub 仓库：[han-lingjie/grad-prep-hanlinjie](https://github.com/han-lingjie/grad-prep-hanlinjie)。
+GitHub 仓库：[han-linjie/grad-prep-hanlinjie](https://github.com/han-linjie/grad-prep-hanlinjie)。
 
 ## 个人简介
 
